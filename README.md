@@ -5,7 +5,7 @@
 ![Red WiFi Logo](https://img.shields.io/badge/Red%20WiFi-2.0.0-red?style=flat-square&logo=wifi)
 ![License](https://img.shields.io/badge/License-MIT-blue?style=flat-square)
 ![Python](https://img.shields.io/badge/Python-3.8+-green?style=flat-square)
-![Status](https://img.shields.io/badge/Status-Production%20Ready-brightgreen?style=flat-square)
+![Status](https://img.shields.io/badge/Status-testing%20phase-brightgreen?style=flat-square)
 
 **Professional WiFi Penetration Testing Framework**
 
